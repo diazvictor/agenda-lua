@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cd /home/victor/Proyectos/LUA/agenda-lua-gtk3-sql
-lua agenda.lua
